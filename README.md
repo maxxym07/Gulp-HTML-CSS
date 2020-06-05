@@ -1,2 +1,2 @@
-# Gulp-HTML-CSS
-Gulp HTML\CSS
+# gulp-template
+Basic gulp template
