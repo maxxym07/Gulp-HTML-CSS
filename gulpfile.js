@@ -20,7 +20,7 @@ const paths = {
         dest: 'build/images'
     },
     fonts: {
-        src: 'app/styles/fonts/**/*.ttf',
+        src: 'app/fonts/**/*.*',
         dest: 'build/fonts'
     }
     
